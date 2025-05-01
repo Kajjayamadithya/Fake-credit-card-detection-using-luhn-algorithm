@@ -17,13 +17,13 @@ This is a stylish and user-friendly desktop application built with **Python** an
 ## 🖼️ Screenshots
 
 ### Main Interface
-![Main Window](screenshots/main_interface.png)
+![Screenshot 2025-05-01 214126](https://github.com/user-attachments/assets/10cbe1b5-0bf7-416b-ad9a-c4249c852e3e)
 
 ### Validation in Progress
-![Progress Bar](screenshots/progress_validation.png)
+![Screenshot 2025-05-01 214746](https://github.com/user-attachments/assets/878bd52c-d6fd-488e-9247-7e2b19c363dd)
 
 ### Result: Valid Card
-![Valid Card](screenshots/valid_result.png)
+![Screenshot 2025-04-22 223153](https://github.com/user-attachments/assets/62c1dc27-631c-43d8-8ec0-d08146c75320)
 
 ---
 
